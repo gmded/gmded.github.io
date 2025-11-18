@@ -20,22 +20,16 @@ Welcome to **College Prep Park**, where your academic journey begins in a landsc
 ---
 
 <details>
-  <summary>🌲 Secret Clearing (click to reveal)</summary>
-  # Five Night's at Freddys HTML
- Containing every possible fnaf game in web browser.<br>
- Listing Fnaf; 1, 2, 3, 4, World, Sister Location, Pizzeria Simulator, and Ultimate Custom Night!<br>
- Press ```-=``` for fullscreen
-<hr>
-
+  <summary>legal details</summary>
 # Demos
-Click [here](https://irv77.github.io/hd_fnaf/1/) for FNAF 1!<br>
-Click [here](https://irv77.github.io/hd_fnaf/2/) for FNAF 2!<br>
-Click [here](https://irv77.github.io/hd_fnaf/3/) for FNAF 3!<br>
-Click [here](https://irv77.github.io/hd_fnaf/4/) for FNAF 4!<br>
-Click [here](https://irv77.github.io/hd_fnaf/w/) for FNAF World!<br>
-Click [here](https://irv77.github.io/hd_fnaf/sl/) for FNAF Sister Location!<br>
-Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<br>
-Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN!
+Click [here](https://gmded.github.io/1/) for FNAF 1!<br>
+Click [here](https://gmded.github.io/2/) for FNAF 2!<br>
+Click [here](https://gmded.github.io/3/) for FNAF 3!<br>
+Click [here](https://gmded.github.io/hd_fnaf/4/) for FNAF 4!<br>
+Click [here](https://gmded.github.io/w/) for FNAF World!<br>
+Click [here](https://gmded.github.io/sl/) for FNAF Sister Location!<br>
+Click [here](https://gmded.github.io/ps/) for FNAF Pizzeria Simulator!<br>
+Click [here](https://gmded.github.io/ucn/) for FNAF UCN!
 
 
  <hr>
