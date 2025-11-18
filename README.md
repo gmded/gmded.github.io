@@ -1,23 +1,4 @@
-# Five Night's at Freddys HTML
- Containing every possible fnaf game in web browser.<br>
- Listing Fnaf; 1, 2, 3, 4, World, Sister Location, Pizzeria Simulator, and Ultimate Custom Night!<br>
- Press ```-=``` for fullscreen
-<hr>
 
-# Demos
-Click [here](https://irv77.github.io/hd_fnaf/1/) for FNAF 1!<br>
-Click [here](https://irv77.github.io/hd_fnaf/2/) for FNAF 2!<br>
-Click [here](https://irv77.github.io/hd_fnaf/3/) for FNAF 3!<br>
-Click [here](https://irv77.github.io/hd_fnaf/4/) for FNAF 4!<br>
-Click [here](https://irv77.github.io/hd_fnaf/w/) for FNAF World!<br>
-Click [here](https://irv77.github.io/hd_fnaf/sl/) for FNAF Sister Location!<br>
-Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<br>
-Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN!
-
-
- <hr>
-
-NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
 # 🎓 College Prep Park
 
 Welcome to **College Prep Park**, where your academic journey begins in a landscape of opportunity and growth. Explore the trails, climb the peaks, and discover hidden treasures that will prepare you for the next big adventure: college!
@@ -40,7 +21,26 @@ Welcome to **College Prep Park**, where your academic journey begins in a landsc
 
 <details>
   <summary>🌲 Secret Clearing (click to reveal)</summary>
+  # Five Night's at Freddys HTML
+ Containing every possible fnaf game in web browser.<br>
+ Listing Fnaf; 1, 2, 3, 4, World, Sister Location, Pizzeria Simulator, and Ultimate Custom Night!<br>
+ Press ```-=``` for fullscreen
+<hr>
 
-  Deep within the park lies a hidden clearing where the truth about college prep is whispered among the trees. It's not just about grades and scores—it's about discovering who you are, what you care about, and how you want to shape the world. The journey is yours to define, and every step you take builds the path ahead. So breathe in the fresh air of possibility, and know that you're not alone in this forest.
+# Demos
+Click [here](https://irv77.github.io/hd_fnaf/1/) for FNAF 1!<br>
+Click [here](https://irv77.github.io/hd_fnaf/2/) for FNAF 2!<br>
+Click [here](https://irv77.github.io/hd_fnaf/3/) for FNAF 3!<br>
+Click [here](https://irv77.github.io/hd_fnaf/4/) for FNAF 4!<br>
+Click [here](https://irv77.github.io/hd_fnaf/w/) for FNAF World!<br>
+Click [here](https://irv77.github.io/hd_fnaf/sl/) for FNAF Sister Location!<br>
+Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<br>
+Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN!
+
+
+ <hr>
+
+NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
+  
 
 </details>
