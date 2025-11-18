@@ -18,3 +18,29 @@ Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN!
  <hr>
 
 NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
+# 🎓 College Prep Park
+
+Welcome to **College Prep Park**, where your academic journey begins in a landscape of opportunity and growth. Explore the trails, climb the peaks, and discover hidden treasures that will prepare you for the next big adventure: college!
+
+## 🏞️ Park Features
+
+- **SAT Summit**: Tackle the heights of standardized testing with practice trails and tutoring cabins.
+- **Essay Grove**: Wander through the woods of personal expression and craft your story.
+- **Application Lake**: Dip your toes into Common App waters and school-specific streams.
+- **Financial Aid Falls**: Navigate the cascading forms of FAFSA and scholarships.
+- **Major Meadow**: Explore fields of study and career paths blooming with possibility.
+
+## 🗺️ Visitor Tips
+
+- Bring your curiosity and a sturdy backpack full of questions.
+- Stay hydrated with motivation and peer support.
+- Watch out for procrastination potholes!
+
+---
+
+<details>
+  <summary>🌲 Secret Clearing (click to reveal)</summary>
+
+  Deep within the park lies a hidden clearing where the truth about college prep is whispered among the trees. It's not just about grades and scores—it's about discovering who you are, what you care about, and how you want to shape the world. The journey is yours to define, and every step you take builds the path ahead. So breathe in the fresh air of possibility, and know that you're not alone in this forest.
+
+</details>
